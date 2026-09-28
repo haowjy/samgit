@@ -10,8 +10,6 @@ My primary contribution was **SAMGIT**, which combined Segment Anything with a g
 
 - [Project proposal (PDF)](docs/proposal.pdf)
 - [Final presentation (PDF)](docs/final-presentation.pdf)
-- [Project proposal summary](docs/proposal.md)
-- [Final presentation summary and results](docs/final-presentation.md)
 
 The final experiments compared pretrained and fine-tuned BLIP/GIT models, SAMGIT, CLIP Interrogator, and several ensemble approaches. SAMGIT achieved the strongest result on our small seven-image evaluation among the fine-tuned models, but was too computationally slow to finish the full Kaggle evaluation.
 
